@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=binaryhong&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=binaryhong&show_icons=true&theme=dark#gh-dark-mode-only)
 
 <!--
 **binaryhong/binaryhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
