@@ -4,11 +4,11 @@
 
 GitHub Stats
 ------
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=binaryhong)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-binaryhong.vercel.app/api?username=binaryhong)](https://github.com/anuraghazra/github-readme-stats)
+  
 Most Used Languages
 ------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryhong&langs_count=10&layout=compact&theme=dark)]
+[![Top Langs](https://github-readme-stats-binaryhong.vercel.app/api/top-langs/?username=binaryhong&langs_count=10&layout=compact&theme=dark)]
 
 
   
