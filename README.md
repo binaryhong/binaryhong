@@ -7,7 +7,7 @@ GitHub Stats
   
 Most Used Languages
 ------
-[![Top Langs](https://github-readme-stats-c8rd.vercel.app/api/top-langs/?username=binaryhong&langs_count=10&layout=compact&theme=dark)]
+![Top Langs](https://github-readme-stats-c8rd.vercel.app/api/top-langs/?username=binaryhong&langs_count=10&layout=compact&theme=dark)
 
 
   
